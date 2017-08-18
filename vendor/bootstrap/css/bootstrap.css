@@ -614,6 +614,10 @@ pre code {
   .container {
     max-width: 720px;
   }
+ h1, .h1 {
+  font-size: 1rem;
+}
+ 
 }
 
 @media (min-width: 992px) {
