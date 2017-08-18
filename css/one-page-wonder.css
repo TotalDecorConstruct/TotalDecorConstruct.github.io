@@ -8,13 +8,7 @@ body {
     padding-top: 76x;
   
 }
-  .h1 {
-    font-size: 1em;
-  }
 
- .p{
-    font-size: 1em;
-  }
 
 @media (min-width: 992px) {
     body {
@@ -22,11 +16,6 @@ body {
     }
 }
 
-@media (min-width: 700px) {
-  .h1 {
-    font-size: 1em;
-  }
-}
 
 header.masthead {
     background: url('https://raw.githubusercontent.com/TotalDecorConstruct/TotalDecorConstruct.github.io/master/slide.jpg') no-repeat center center scroll;
