@@ -28,9 +28,6 @@ header.masthead > .overlay {
     background: rgba(0, 0, 0, 0.6);
 }
 
-.py-5 bg-dark {
-        background: url('https://raw.githubusercontent.com/TotalDecorConstruct/TotalDecorConstruct.github.io/master/slide.jpg') no-repeat center center scroll;
-}
 
 @media (min-width: 992px) {
     header.masthead > .overlay {
