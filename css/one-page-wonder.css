@@ -14,6 +14,12 @@ body {
     }
 }
 
+@media (min-width: 700px) {
+  .h1 {
+    font-size: 1em;
+  }
+}
+
 header.masthead {
     background: url('https://raw.githubusercontent.com/TotalDecorConstruct/TotalDecorConstruct.github.io/master/slide.jpg') no-repeat center center scroll;
     -webkit-background-size: cover;
