@@ -6,7 +6,11 @@
 
 body {
     padding-top: 76x;
+  
 }
+  .h1 {
+    font-size: 1em;
+  }
 
 @media (min-width: 992px) {
     body {
