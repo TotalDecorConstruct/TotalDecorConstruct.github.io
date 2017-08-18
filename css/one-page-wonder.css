@@ -12,6 +12,10 @@ body {
     font-size: 1em;
   }
 
+ .p{
+    font-size: 1em;
+  }
+
 @media (min-width: 992px) {
     body {
         padding-top: 56px;
